@@ -1,0 +1,76 @@
+FINANCIAL CONTROLS AND INTERNAL AUDIT
+
+Internal controls to ensure financial accuracy and compliance.
+
+CONTROL ENVIRONMENT
+- Tone: Tone at the top
+- Ethics: Code of conduct
+- Structure: Organizational structure
+- Authority: Delegation of authority
+- Competence: Staff competence
+- Culture: Control culture
+
+AUTHORIZATION CONTROLS
+- Limits: Authorization limits
+- Approvals: Required approvals
+- Signatures: Authorized signers
+- Delegation: Delegation of authority
+- Documentation: Approval documentation
+- Review: Regular review of limits
+
+SEGREGATION OF DUTIES
+- Principle: Separate incompatible duties
+- Authorization: Separate from execution
+- Custody: Separate from recordkeeping
+- Reconciliation: Independent reconciliation
+- Review: Independent review
+- Monitoring: Ongoing monitoring
+
+DOCUMENTATION CONTROLS
+- Policies: Written policies and procedures
+- Procedures: Documented procedures
+- Evidence: Supporting documentation
+- Retention: Document retention policy
+- Access: Controlled access to documents
+- Version: Version control
+
+RECONCILIATION CONTROLS
+- Frequency: Regular reconciliation schedule
+- Independence: Independent reconciliation
+- Review: Management review
+- Timeliness: Timely reconciliation
+- Documentation: Reconciliation documentation
+- Follow-up: Follow up on variances
+
+MONITORING CONTROLS
+- Ongoing: Ongoing monitoring
+- Separate: Separate evaluations
+- Reports: Management reports
+- Metrics: Key control metrics
+- Alerts: Automated alerts
+- Actions: Corrective actions
+
+IT CONTROLS
+- Access: System access controls
+- Security: Information security
+- Backup: Data backup and recovery
+- Change: Change management
+- Testing: System testing
+- Monitoring: System monitoring
+
+COMPLIANCE CONTROLS
+- Regulations: Regulatory compliance
+- Policies: Policy compliance
+- Training: Compliance training
+- Testing: Compliance testing
+- Reporting: Compliance reporting
+- Remediation: Remediation of issues
+
+INTERNAL AUDIT
+- Function: Independent internal audit
+- Scope: Audit scope and plan
+- Testing: Control testing
+- Reporting: Audit reports
+- Follow-up: Follow-up on findings
+- Improvement: Continuous improvement
+

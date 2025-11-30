@@ -1,0 +1,68 @@
+COMMON IT ISSUES AND TROUBLESHOOTING STEPS
+
+Quick reference for resolving common technical problems.
+
+SLOW COMPUTER
+- Restart: First step, often resolves issues
+- Updates: Check for pending Windows/Mac updates
+- Disk space: Ensure 10% free disk space
+- Programs: Close unnecessary applications
+- Malware scan: Run antivirus scan
+- Contact IT: If issues persist
+
+PRINTER PROBLEMS
+- Check connection: Verify printer is on and connected
+- Restart: Restart printer and computer
+- Driver: Update printer drivers
+- Queue: Clear print queue
+- Network: Check network connection
+- Default: Set correct default printer
+
+EMAIL NOT WORKING
+- Internet: Check internet connection
+- Credentials: Verify username and password
+- Server: Check server settings
+- Quota: Check if mailbox is full
+- Firewall: Ensure email ports not blocked
+- Contact IT: For persistent issues
+
+VPN CONNECTION ISSUES
+- Credentials: Verify username and password
+- Internet: Check internet connection
+- Client: Update VPN client software
+- Firewall: Check firewall settings
+- Server: Try different VPN server
+- Restart: Restart VPN client
+
+SOFTWARE CRASHES
+- Updates: Update software to latest version
+- Restart: Restart application
+- Reinstall: Uninstall and reinstall
+- Permissions: Check user permissions
+- Compatibility: Verify OS compatibility
+- Logs: Check application logs
+
+FILE ACCESS ISSUES
+- Permissions: Check file/folder permissions
+- Location: Verify file location
+- Network: Check network connection
+- Sync: Check OneDrive sync status
+- Corrupt: File may be corrupted
+- Backup: Restore from backup
+
+AUDIO/VIDEO PROBLEMS
+- Volume: Check volume settings
+- Mute: Ensure not muted
+- Drivers: Update audio/video drivers
+- Cables: Check cable connections
+- Settings: Check application settings
+- Restart: Restart device
+
+WI-FI CONNECTIVITY
+- Signal: Check signal strength
+- Password: Verify network password
+- Restart: Restart router and device
+- Forget: Forget network and reconnect
+- Driver: Update Wi-Fi drivers
+- Contact IT: For network issues
+

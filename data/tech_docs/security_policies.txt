@@ -1,0 +1,53 @@
+CYBERSECURITY AND INFORMATION SECURITY POLICIES
+
+Protecting company data and systems is everyone's responsibility.
+
+PASSWORD SECURITY
+- Strong passwords: Minimum 12 characters required
+- Password manager: Company-provided LastPass available
+- No sharing: Passwords must never be shared
+- Unique passwords: Different password for each system
+- Regular updates: Change passwords every 90 days
+
+MULTI-FACTOR AUTHENTICATION
+- Required: All company systems require MFA
+- Methods: Authenticator app, SMS, or hardware token
+- Setup: Required within first week of employment
+- Backup codes: Store securely, use if device lost
+- Recovery: Contact IT if MFA device unavailable
+
+PHISHING PREVENTION
+- Suspicious emails: Forward to security@company.com
+- Links: Hover to verify URL before clicking
+- Attachments: Scan before opening
+- Urgency: Be cautious of urgent requests
+- Verification: Call sender to verify unusual requests
+
+DATA CLASSIFICATION
+- Public: Can be shared externally
+- Internal: Company use only
+- Confidential: Restricted to specific teams
+- Highly confidential: Limited access, encryption required
+- Classification: Mark all documents appropriately
+
+ENCRYPTION REQUIREMENTS
+- Laptops: Full disk encryption required
+- USB drives: Encrypted drives only
+- Email: Encrypt sensitive attachments
+- Cloud storage: All files encrypted at rest
+- Transmission: HTTPS/TLS for all connections
+
+INCIDENT REPORTING
+- Security incidents: Report immediately to security@company.com
+- Response time: IT responds within 1 hour
+- Containment: Affected systems isolated immediately
+- Investigation: Full analysis conducted
+- Notification: Affected parties notified as required
+
+ACCESS CONTROL
+- Principle of least privilege: Minimum access needed
+- Regular reviews: Access audits quarterly
+- Offboarding: Access revoked immediately
+- Role changes: Access updated within 24 hours
+- Approval: Manager approval required for access requests
+

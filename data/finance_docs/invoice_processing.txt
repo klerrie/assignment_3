@@ -1,0 +1,68 @@
+INVOICE PROCESSING AND PAYABLES
+
+How to submit invoices and process vendor payments.
+
+INVOICE SUBMISSION
+- Portal: Submit through accounts payable portal
+- Format: PDF preferred, images accepted
+- Details: Vendor, amount, date, description
+- Approval: Manager approval required
+- Attachments: Purchase orders, contracts
+- Deadline: Submit by 25th for next month payment
+
+INVOICE REQUIREMENTS
+- Information: Vendor name, address, tax ID
+- Details: Line items with descriptions
+- Amount: Total amount clearly stated
+- Terms: Payment terms (Net 30, etc.)
+- Date: Invoice date and due date
+- PO: Reference purchase order if applicable
+
+APPROVAL PROCESS
+- Amount: Under $1,000, manager approval
+- Amount: $1,000-$10,000, department head
+- Amount: Over $10,000, VP or CFO
+- Routing: Automatic routing to approvers
+- Timeline: 3 business days for approval
+- Escalation: Auto-escalates if not approved
+
+PAYMENT SCHEDULE
+- Cycle: Payments processed twice monthly
+- Dates: 5th and 20th of each month
+- Method: ACH or check based on vendor
+- Terms: Pay according to invoice terms
+- Early payment: Discounts available sometimes
+- Late payment: Avoid late fees
+
+VENDOR SETUP
+- New vendor: Complete vendor setup form
+- Information: W-9, banking details, contact
+- Verification: Finance verifies information
+- Approval: Finance and procurement approve
+- System: Added to vendor master file
+- Payment: Can process payments after setup
+
+PURCHASE ORDERS
+- Required: PO required for purchases over $500
+- Process: Create PO in procurement system
+- Approval: Based on amount thresholds
+- Receiving: Match invoice to PO
+- Three-way match: PO, receipt, invoice
+- Exceptions: Resolve mismatches before payment
+
+DISPUTES AND ISSUES
+- Discrepancies: Contact vendor to resolve
+- Credits: Process credit memos for returns
+- Adjustments: Submit adjustment requests
+- Documentation: Keep all correspondence
+- Escalation: Escalate if vendor unresponsive
+- Resolution: Document resolution in system
+
+PAYMENT METHODS
+- ACH: Electronic transfer, preferred method
+- Check: Mailed checks for some vendors
+- Wire: International or urgent payments
+- Credit card: For small purchases
+- Timing: 2-3 business days for ACH
+- Confirmation: Payment confirmations sent
+

@@ -1,0 +1,68 @@
+ACCOUNTING PRINCIPLES AND POLICIES
+
+Fundamental accounting principles and company policies.
+
+ACCOUNTING STANDARDS
+- GAAP: Generally Accepted Accounting Principles
+- Basis: Accrual basis accounting
+- Period: Calendar year end
+- Consistency: Consistent application required
+- Materiality: Materiality thresholds
+- Estimates: Use of estimates and judgments
+
+CHART OF ACCOUNTS
+- Structure: Organized by account type
+- Assets: Current and non-current assets
+- Liabilities: Current and long-term liabilities
+- Equity: Equity accounts
+- Revenue: Revenue by source
+- Expenses: Expenses by category
+
+REVENUE RECOGNITION
+- Principle: Recognize when earned
+- Timing: Point in time or over time
+- Criteria: Five-step model applied
+- Contracts: Contract revenue recognition
+- Deferred: Deferred revenue tracking
+- Documentation: Revenue recognition policies
+
+EXPENSE RECOGNITION
+- Matching: Match expenses to revenue
+- Period: Recognize in correct period
+- Accruals: Accrue expenses when incurred
+- Prepaid: Amortize prepaid expenses
+- Depreciation: Depreciate fixed assets
+- Amortization: Amortize intangible assets
+
+ASSET ACCOUNTING
+- Classification: Current vs non-current
+- Valuation: Historical cost basis
+- Depreciation: Straight-line method
+- Impairment: Test for impairment
+- Disposal: Account for disposals
+- Inventory: Lower of cost or market
+
+LIABILITY ACCOUNTING
+- Classification: Current vs long-term
+- Recognition: Recognize when incurred
+- Measurement: At fair value or cost
+- Contingencies: Account for contingencies
+- Leases: Lease accounting standards
+- Debt: Debt classification and measurement
+
+INTERNAL CONTROLS
+- Segregation: Segregation of duties
+- Authorization: Authorization requirements
+- Documentation: Proper documentation
+- Reconciliation: Regular reconciliations
+- Review: Management review
+- Monitoring: Ongoing monitoring
+
+AUDIT SUPPORT
+- Preparation: Prepare for audits
+- Documentation: Provide documentation
+- Cooperation: Cooperate with auditors
+- Adjustments: Process audit adjustments
+- Management letter: Respond to findings
+- Follow-up: Implement recommendations
+

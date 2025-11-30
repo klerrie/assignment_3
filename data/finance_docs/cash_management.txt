@@ -1,0 +1,68 @@
+CASH MANAGEMENT AND TREASURY
+
+Managing company cash flow and liquidity.
+
+CASH FLOW FORECASTING
+- Process: 13-week rolling cash forecast
+- Updates: Updated weekly
+- Components: Operating, investing, financing
+- Accuracy: Track forecast accuracy
+- Variance: Analyze variances
+- Actions: Take actions to improve
+
+BANK ACCOUNTS
+- Operating: Primary operating account
+- Payroll: Dedicated payroll account
+- Reserve: Emergency reserve account
+- Investment: Investment accounts
+- Reconciliation: Monthly reconciliation
+- Signers: Authorized signers on accounts
+
+CASH POSITION
+- Monitoring: Daily cash position monitoring
+- Reporting: Daily cash reports
+- Thresholds: Minimum cash thresholds
+- Alerts: Automated alerts for low cash
+- Actions: Actions to maintain liquidity
+- Communication: Regular cash updates
+
+PAYMENT PROCESSING
+- ACH: Electronic payments preferred
+- Checks: Check printing and mailing
+- Wires: Wire transfers for large amounts
+- Timing: Optimize payment timing
+- Terms: Negotiate payment terms
+- Discounts: Take early payment discounts
+
+INVESTMENT POLICY
+- Objectives: Safety, liquidity, return
+- Instruments: Approved investment types
+- Limits: Investment limits and guidelines
+- Duration: Maximum maturity limits
+- Credit: Minimum credit ratings
+- Approval: Investment approval process
+
+CREDIT FACILITIES
+- Line of credit: Revolving credit facility
+- Terms: Credit terms and covenants
+- Usage: Monitor credit usage
+- Availability: Track available credit
+- Draws: Process credit draws
+- Repayment: Repayment schedule
+
+WORKING CAPITAL
+- Management: Optimize working capital
+- Receivables: Accounts receivable management
+- Payables: Accounts payable optimization
+- Inventory: Inventory management
+- Cycle: Cash conversion cycle
+- Metrics: Working capital metrics
+
+LIQUIDITY PLANNING
+- Scenarios: Stress test scenarios
+- Contingency: Contingency planning
+- Sources: Identify liquidity sources
+- Timing: Plan for timing mismatches
+- Buffer: Maintain liquidity buffer
+- Communication: Regular liquidity updates
+

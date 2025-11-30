@@ -1,0 +1,46 @@
+IT SUPPORT AND TROUBLESHOOTING GUIDE
+
+Comprehensive guide for common IT issues and support procedures.
+
+PASSWORD RESETS
+- Self-service portal: Available 24/7 at support.company.com
+- Password requirements: 12 characters, mixed case, numbers, symbols
+- Reset frequency: Every 90 days required
+- Lockout policy: 5 failed attempts locks account for 30 minutes
+- Multi-factor authentication: Required for all accounts
+
+EMAIL SETUP
+- Outlook configuration: Auto-configured on company devices
+- Mobile setup: IMAP settings provided by IT
+- Email limits: 50MB attachment size, 1000 emails per day
+- Retention: 2 years for all emails
+- Archiving: Automatic after 1 year
+
+NETWORK CONNECTIVITY
+- WiFi network: Company-Secure, password in onboarding packet
+- VPN access: Required for remote work
+- VPN client: Available for Windows, Mac, iOS, Android
+- Connection issues: Restart router, check cable connections
+- Speed test: Available at speedtest.company.com
+
+SOFTWARE INSTALLATION
+- Approved software: List available in IT portal
+- Installation requests: Submit ticket for approval
+- Admin rights: Not granted to standard users
+- Software updates: Automatic via company management system
+- License management: IT handles all software licenses
+
+HARDWARE SUPPORT
+- Laptop issues: Contact IT support for diagnostics
+- Replacement: Available for hardware failures
+- Warranty: All devices covered for 3 years
+- Peripherals: Monitors, keyboards, mice available
+- Equipment return: Required upon termination
+
+CLOUD SERVICES
+- File storage: OneDrive for Business, 1TB per user
+- Collaboration: SharePoint for team documents
+- Backup: Automatic daily backups
+- Sync: Files sync across all devices
+- Sharing: External sharing requires approval
+

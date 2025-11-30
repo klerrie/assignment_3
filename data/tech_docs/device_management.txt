@@ -1,0 +1,60 @@
+DEVICE MANAGEMENT AND EQUIPMENT POLICIES
+
+Policies for company-issued devices and equipment.
+
+ISSUED DEVICES
+- Laptop: Standard issue for all employees
+- Model: Dell Latitude or MacBook Pro
+- Specifications: Based on role requirements
+- Refresh: Every 3 years or as needed
+- Ownership: Company property, must be returned
+
+MOBILE DEVICES
+- Phone: Available for roles requiring it
+- Model: iPhone or Android based on preference
+- Plan: Company-paid cellular service
+- Personal use: Limited personal use allowed
+- Replacement: Available for device failures
+
+HARDWARE STANDARDS
+- Operating system: Windows 11 or macOS latest
+- Security: Encryption and security software required
+- Updates: Automatic OS and security updates
+- Compliance: Must meet security standards
+- Support: IT supports standard configurations only
+
+EQUIPMENT CARE
+- Responsibility: Employee responsible for care
+- Damage: Report immediately to IT
+- Repairs: Covered under warranty
+- Loss: Report immediately, may be charged
+- Theft: File police report, IT will assist
+
+SOFTWARE INSTALLATION
+- Approved software: IT maintains approved list
+- Requests: Submit through IT portal
+- Evaluation: Security review before approval
+- Installation: IT installs approved software
+- Updates: Managed automatically when possible
+
+EQUIPMENT RETURN
+- Offboarding: All equipment must be returned
+- Condition: Must be in good working condition
+- Accessories: Chargers, cables, cases included
+- Data: All data wiped before return
+- Receipt: Signed receipt upon return
+
+PERSONAL DEVICE USE
+- BYOD: Not currently supported
+- Exceptions: Special approval required
+- Security: Must meet company standards
+- Support: Limited support for personal devices
+- Policy: Personal device use policy applies
+
+REPLACEMENT PROCEDURES
+- Request: Submit ticket for replacement
+- Approval: Manager approval required
+- Process: IT evaluates and orders
+- Timeline: 3-5 business days typically
+- Setup: IT configures and delivers new device
+

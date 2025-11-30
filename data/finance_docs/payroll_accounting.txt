@@ -1,0 +1,76 @@
+PAYROLL ACCOUNTING AND PROCESSING
+
+Accounting for payroll and employee compensation.
+
+PAYROLL COMPONENTS
+- Gross pay: Base salary or hourly wages
+- Deductions: Taxes, benefits, 401(k)
+- Net pay: Amount paid to employee
+- Employer taxes: FICA, unemployment
+- Benefits: Employer portion of benefits
+- Accruals: Vacation and sick time
+
+PAYROLL PROCESSING
+- Frequency: Bi-weekly payroll processing
+- Timeline: Process 2 days before pay date
+- System: Automated payroll system
+- Validation: Validate before processing
+- Approval: Finance approval required
+- Distribution: Direct deposit or checks
+
+PAYROLL JOURNAL ENTRIES
+- Wages: Debit wage expense
+- Taxes: Credit tax liabilities
+- Benefits: Credit benefit liabilities
+- Cash: Credit cash for net pay
+- Accruals: Accrue payroll if period end
+- Reversals: Reverse accruals when paid
+
+PAYROLL TAXES
+- Federal: Federal income tax withholding
+- FICA: Social Security and Medicare
+- State: State income tax withholding
+- Local: Local tax withholding
+- Unemployment: Federal and state unemployment
+- Deposits: Tax deposit schedule
+
+BENEFIT ACCOUNTING
+- Health insurance: Employer portion expense
+- 401(k) match: Employer contribution expense
+- Other benefits: Life, disability, etc.
+- Accrual: Accrue benefits monthly
+- Payment: Pay when due
+- Reconciliation: Reconcile benefit accounts
+
+VACATION AND SICK TIME
+- Accrual: Accrue based on policy
+- Rate: Accrual rate per pay period
+- Liability: Track as liability
+- Usage: Reduce liability when used
+- Cap: Maximum accrual limits
+- Payout: Account for payouts on termination
+
+PAYROLL RECONCILIATION
+- Process: Monthly reconciliation
+- Components: Wages, taxes, benefits
+- Variance: Investigate variances
+- Adjustments: Make adjusting entries
+- Documentation: Document reconciliation
+- Review: Management review
+
+PAYROLL REPORTING
+- Reports: Various payroll reports
+- Tax forms: W-2, 941, state forms
+- Benefits: Benefit reports
+- Analysis: Payroll analysis
+- Budget: Payroll budget reports
+- Compliance: Compliance reporting
+
+PAYROLL CONTROLS
+- Authorization: Authorize payroll changes
+- Segregation: Segregate duties
+- Review: Review payroll before processing
+- Approval: Approve payroll
+- Reconciliation: Regular reconciliations
+- Monitoring: Ongoing monitoring
+

@@ -1,0 +1,53 @@
+SOFTWARE TOOLS AND APPLICATIONS
+
+Essential software and tools for daily work operations.
+
+PRODUCTIVITY SUITE
+- Microsoft 365: Word, Excel, PowerPoint, Teams
+- License: Full Office suite included
+- Cloud sync: OneDrive integration
+- Collaboration: Real-time co-authoring
+- Training: Available through IT portal
+
+COMMUNICATION TOOLS
+- Slack: Team messaging and channels
+- Microsoft Teams: Video calls and meetings
+- Email: Outlook for Business
+- Calendar: Outlook calendar integration
+- Video conferencing: Zoom for external meetings
+
+PROJECT MANAGEMENT
+- Jira: Issue tracking and project management
+- Confluence: Documentation and wikis
+- Asana: Task management for some teams
+- Trello: Kanban boards for workflows
+- Integration: All tools integrate with each other
+
+DEVELOPMENT TOOLS
+- IDE: VS Code, IntelliJ, or preferred editor
+- Git: Version control, GitHub Enterprise
+- CI/CD: Jenkins for build automation
+- Docker: Containerization platform
+- Cloud: AWS, Azure access as needed
+
+ANALYTICS AND REPORTING
+- Tableau: Business intelligence and dashboards
+- Power BI: Microsoft analytics platform
+- Excel: Advanced analytics and modeling
+- Python: Data analysis and scripting
+- SQL: Database query access
+
+DESIGN TOOLS
+- Adobe Creative Suite: Full license available
+- Figma: UI/UX design and prototyping
+- Canva: Quick design needs
+- Sketch: Available for Mac users
+- Asset library: Shared design system
+
+BACKUP AND RECOVERY
+- Backup software: Automatic daily backups
+- Recovery: Point-in-time recovery available
+- Retention: 30 days for file versions
+- Cloud backup: Additional cloud storage
+- Disaster recovery: Tested quarterly
+

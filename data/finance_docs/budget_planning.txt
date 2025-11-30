@@ -1,0 +1,68 @@
+BUDGET PLANNING AND MANAGEMENT
+
+How budgets are created, managed, and monitored.
+
+BUDGET CYCLE
+- Planning: Annual budget planning in Q4
+- Timeline: Budget due by December 1
+- Review: Finance reviews and consolidates
+- Approval: Executive team approves in January
+- Effective: Budget year runs January to December
+- Updates: Quarterly budget reviews
+
+BUDGET COMPONENTS
+- Personnel: Salaries, benefits, contractors
+- Operating expenses: Supplies, software, services
+- Capital expenditures: Equipment, infrastructure
+- Travel: Business travel and events
+- Marketing: Advertising, campaigns, events
+- Professional services: Consultants, legal, accounting
+
+BUDGET PREPARATION
+- Template: Standard budget template provided
+- Historical: Review previous year actuals
+- Forecast: Project next year needs
+- Justification: Required for increases
+- Documentation: Supporting details required
+- Submission: Through budget portal
+
+BUDGET APPROVAL
+- Department: Department head reviews
+- Finance: Finance team consolidates
+- Executive: C-suite final approval
+- Board: Board approval for total budget
+- Timeline: 4-6 week approval process
+- Communication: Approved budgets communicated
+
+BUDGET MONITORING
+- Reports: Monthly budget vs actual reports
+- Variance: Review significant variances
+- Forecast: Quarterly reforecast
+- Alerts: Automated alerts for overruns
+- Meetings: Monthly budget review meetings
+- Actions: Corrective actions for variances
+
+BUDGET ADJUSTMENTS
+- Transfers: Move between line items
+- Increases: Require approval and justification
+- Decreases: Can reduce if not needed
+- Process: Submit budget adjustment request
+- Approval: Based on amount and type
+- Timing: Quarterly adjustment windows
+
+CAPITAL BUDGETS
+- Planning: Separate capital budget process
+- Approval: Higher approval thresholds
+- Depreciation: Tracked separately
+- Assets: Tagged and tracked in system
+- Disposal: Process for asset disposal
+- Reporting: Capital budget reports monthly
+
+VARIANCE ANALYSIS
+- Threshold: Variances over 10% investigated
+- Causes: Identify root causes
+- Trends: Analyze trends over time
+- Actions: Develop corrective actions
+- Documentation: Document findings
+- Follow-up: Track action completion
+

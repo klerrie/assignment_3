@@ -1,0 +1,68 @@
+FINANCIAL REPORTING AND ANALYSIS
+
+Understanding financial reports and key metrics.
+
+MONTHLY REPORTS
+- P&L: Profit and loss statement
+- Balance sheet: Assets, liabilities, equity
+- Cash flow: Operating, investing, financing
+- Department: Department-level P&L
+- Variance: Budget vs actual analysis
+- Distribution: Sent by 10th of following month
+
+KEY METRICS
+- Revenue: Total sales and revenue
+- Expenses: Operating expenses by category
+- EBITDA: Earnings before interest, taxes, depreciation
+- Cash position: Available cash and equivalents
+- Burn rate: Monthly cash consumption
+- Runway: Months of cash remaining
+
+DEPARTMENT REPORTS
+- Revenue: Department revenue contribution
+- Expenses: Department spending by category
+- Budget: Budget vs actual by department
+- Headcount: FTE and contractor costs
+- Trends: Month-over-month and year-over-year
+- Forecast: Updated forecasts quarterly
+
+ANNUAL REPORTS
+- Financial statements: Audited annual statements
+- Management discussion: MD&A section
+- Board presentation: Executive summary
+- Tax returns: Filed by tax deadline
+- Compliance: Regulatory filings as required
+- Distribution: Shared with stakeholders
+
+FORECASTING
+- Process: Quarterly forecasting process
+- Horizon: 12-month rolling forecast
+- Updates: Updated monthly with actuals
+- Drivers: Key business drivers identified
+- Scenarios: Best case, base case, worst case
+- Accuracy: Track forecast accuracy
+
+DASHBOARDS
+- Executive: High-level KPIs and metrics
+- Department: Department-specific dashboards
+- Real-time: Live data where available
+- Custom: Can request custom dashboards
+- Access: Role-based access control
+- Training: Dashboard training available
+
+ANALYSIS TOOLS
+- Excel: Standard analysis tool
+- BI tools: Tableau, Power BI available
+- ERP: Financial data in ERP system
+- Exports: Data exports available
+- Support: Finance team provides support
+- Training: Analysis training offered
+
+COMPLIANCE REPORTING
+- Tax: Quarterly and annual tax reports
+- Regulatory: Industry-specific reports
+- Audit: Support for external audits
+- Internal audit: Internal audit support
+- Documentation: Maintain audit trail
+- Deadlines: Meet all reporting deadlines
+

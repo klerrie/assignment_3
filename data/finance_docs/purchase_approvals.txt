@@ -1,0 +1,76 @@
+PURCHASE APPROVAL PROCESS
+
+How to get approval for purchases and procurement.
+
+APPROVAL THRESHOLDS
+- Under $500: Manager approval
+- $500-$2,500: Department head approval
+- $2,500-$10,000: VP approval
+- $10,000-$50,000: CFO approval
+- Over $50,000: Board approval required
+- Capital: Different thresholds for capital items
+
+PURCHASE REQUESTS
+- System: Submit through procurement portal
+- Details: Item, quantity, vendor, cost
+- Justification: Business case required
+- Budget: Verify budget availability
+- Timeline: Expected delivery date
+- Approval: Route to appropriate approver
+
+PURCHASE ORDERS
+- Creation: Auto-created after approval
+- Number: Unique PO number assigned
+- Terms: Payment terms specified
+- Vendor: Sent to vendor
+- Tracking: Track PO status in system
+- Receiving: Match to receipt
+
+PROCUREMENT PROCESS
+- Vendor selection: Use preferred vendors
+- Quotes: Get 3 quotes for large purchases
+- Contracts: Legal review for contracts
+- Negotiation: Procurement negotiates terms
+- Approval: Follow approval workflow
+- Purchase: Issue purchase order
+
+CAPITAL EXPENDITURES
+- Definition: Equipment, software, assets
+- Approval: Higher approval thresholds
+- Depreciation: Tracked as assets
+- Budget: Separate capital budget
+- Justification: ROI analysis required
+- Board: Board approval for large items
+
+SOFTWARE AND SUBSCRIPTIONS
+- IT review: IT must approve software
+- Security: Security review required
+- Licensing: Verify licensing compliance
+- Budget: Annual subscription costs
+- Renewal: Track renewal dates
+- Centralized: IT manages software portfolio
+
+TRAVEL AND EVENTS
+- Travel: Follow travel policy
+- Events: Conference and event approval
+- Budget: Travel budget allocation
+- Advance: Can request travel advance
+- Approval: Manager and finance approval
+- Documentation: Keep all receipts
+
+URGENT PURCHASES
+- Process: Expedited approval available
+- Justification: Strong business case needed
+- Approval: Can get verbal approval, confirm in writing
+- Documentation: Submit request after purchase
+- Limits: Still subject to approval limits
+- Review: Post-purchase review required
+
+VENDOR MANAGEMENT
+- Preferred: Use preferred vendor list
+- New vendors: Vendor setup required
+- Contracts: Legal review for contracts
+- Terms: Negotiate favorable terms
+- Performance: Track vendor performance
+- Relationships: Maintain vendor relationships
+

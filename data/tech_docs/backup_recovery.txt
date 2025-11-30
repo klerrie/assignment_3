@@ -1,0 +1,53 @@
+BACKUP AND DISASTER RECOVERY PROCEDURES
+
+How we protect and recover your data and systems.
+
+BACKUP SCHEDULE
+- Files: Daily incremental backups
+- Full backup: Weekly on Sundays
+- Databases: Every 6 hours
+- Email: Continuous backup
+- Retention: 30 days for files, 1 year for critical data
+
+BACKUP LOCATIONS
+- Primary: On-premises backup server
+- Secondary: Cloud backup to AWS
+- Geographic: Backup in different region
+- Redundancy: Multiple copies maintained
+- Encryption: All backups encrypted
+
+FILE RECOVERY
+- Self-service: Restore files from OneDrive
+- Version history: 30 days of versions
+- Deleted files: Recoverable for 30 days
+- Request: Submit ticket for older recoveries
+- Process: Usually completed within 4 hours
+
+SYSTEM RECOVERY
+- RTO: Recovery time objective of 4 hours
+- RPO: Recovery point objective of 1 hour
+- Testing: Quarterly disaster recovery tests
+- Documentation: Detailed recovery procedures
+- Team: Dedicated DR team on call
+
+DATA RETENTION
+- Active files: Indefinite while employed
+- Deleted files: 30 days in recycle bin
+- Archived: Moved to archive after 1 year
+- Legal hold: Retained per legal requirements
+- Purging: Automatic after retention period
+
+CLOUD BACKUP
+- OneDrive: Automatic sync and backup
+- SharePoint: Version history maintained
+- Teams: Chat and files backed up
+- Recovery: Self-service restore available
+- Support: IT can assist with recovery
+
+DISASTER RECOVERY PLAN
+- Scenarios: Documented for various disasters
+- Roles: Assigned recovery team members
+- Communication: Notification procedures
+- Testing: Annual full DR test
+- Updates: Plan reviewed quarterly
+

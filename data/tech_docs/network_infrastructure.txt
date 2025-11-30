@@ -1,0 +1,53 @@
+NETWORK INFRASTRUCTURE AND CONNECTIVITY
+
+Understanding our network setup and connectivity options.
+
+OFFICE NETWORK
+- WiFi: Company-Secure network, WPA3 encryption
+- Wired: Ethernet available at all desks
+- Speed: 1 Gbps connection per desk
+- Guest network: Company-Guest for visitors
+- Coverage: Full coverage throughout building
+
+VPN CONFIGURATION
+- Client: GlobalProtect or Cisco AnyConnect
+- Servers: Multiple regional servers available
+- Protocol: IKEv2/IPSec for security
+- Split tunneling: Enabled for better performance
+- Auto-connect: Connects when off corporate network
+
+INTERNET CONNECTIVITY
+- Primary: Fiber connection, 10 Gbps
+- Backup: Secondary connection for redundancy
+- Uptime: 99.9% SLA guarantee
+- Monitoring: 24/7 network monitoring
+- Outages: Notifications via status page
+
+FIREWALL AND SECURITY
+- Firewall: Next-generation firewall in place
+- Rules: Whitelist approach for security
+- Updates: Automatic security updates
+- Logging: All traffic logged and monitored
+- Intrusion detection: Active threat monitoring
+
+CLOUD CONNECTIVITY
+- AWS Direct Connect: Private connection to AWS
+- Azure ExpressRoute: Private connection to Azure
+- Latency: Optimized routes for low latency
+- Bandwidth: Scalable based on needs
+- Monitoring: Real-time performance metrics
+
+MOBILE DEVICE MANAGEMENT
+- MDM: Microsoft Intune for company devices
+- Policies: Security policies enforced
+- Remote wipe: Available for lost devices
+- App management: Approved apps only
+- Compliance: Devices must meet security standards
+
+NETWORK TROUBLESHOOTING
+- Connectivity issues: Check cable, restart device
+- Slow speeds: Run speed test, contact IT
+- VPN problems: Restart client, check credentials
+- WiFi issues: Forget network, reconnect
+- Support: IT helpdesk available 24/7
+

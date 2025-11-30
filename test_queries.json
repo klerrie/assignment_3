@@ -1,0 +1,63 @@
+[
+  {
+    "query": "How many vacation days do I get per year?",
+    "expected_intent": "HR"
+  },
+  {
+    "query": "My laptop won't connect to WiFi, what should I do?",
+    "expected_intent": "Tech"
+  },
+  {
+    "query": "What is the expense reimbursement process?",
+    "expected_intent": "Finance"
+  },
+  {
+    "query": "How do I reset my password?",
+    "expected_intent": "Tech"
+  },
+  {
+    "query": "What is our 401(k) matching policy?",
+    "expected_intent": "HR"
+  },
+  {
+    "query": "When are invoices processed for payment?",
+    "expected_intent": "Finance"
+  },
+  {
+    "query": "Can I work remotely?",
+    "expected_intent": "HR"
+  },
+  {
+    "query": "How do I access the company VPN?",
+    "expected_intent": "Tech"
+  },
+  {
+    "query": "What is the budget approval process?",
+    "expected_intent": "Finance"
+  },
+  {
+    "query": "How do I request time off?",
+    "expected_intent": "HR"
+  },
+  {
+    "query": "What software tools are available for project management?",
+    "expected_intent": "Tech"
+  },
+  {
+    "query": "How do I submit an expense report?",
+    "expected_intent": "Finance"
+  },
+  {
+    "query": "What is the performance review process?",
+    "expected_intent": "HR"
+  },
+  {
+    "query": "My email is not working, who should I contact?",
+    "expected_intent": "Tech"
+  },
+  {
+    "query": "What are the purchase approval limits?",
+    "expected_intent": "Finance"
+  }
+]
+
